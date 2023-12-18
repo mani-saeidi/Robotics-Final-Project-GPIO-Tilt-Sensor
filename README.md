@@ -32,6 +32,8 @@ See notes of the powerpoint for issues and detailed information.
 
 **Tilt sensor module**
 
+**Micro-USB Cable and Jumper Wires**
+
 **Motor driver module(included onboard microcontroller)**
 
 **RGB LED module(included onboard microcontroller)**
@@ -51,19 +53,26 @@ git clone https://github.com/yourusername/tilt-sensor-project.git
 
 # Hardware Setup
 **1. Connect the MSP432PXX Microcontroller to your computer.**
+
 **2. Connect the tilt sensor to the designated pins on Port 4 (P4.0, P4.2, P4.4, P4.5).**
+
 **3. Connect the motor driver to the appropriate ports.**
+
 **4. Connect the RGB LED module to the designated pins on Port 2 (P2.0 - P2.2).**
+
 **5. Power on the MSP432PXX Microcontroller.**
 
 # Software Setup
 **1. Build the project in Code Composer Studio.**
+
 **2. Flash or Debug the compiled code onto the MSP432PXX Microcontroller.**
+
 **3. Any issues might be related to needing to set the appropriate BAUD rate on Windows.**
 
 # Usage
-**Run the compiled code on the MSP432PXX Microcontroller.**
-**Observe the behavior of the built-in red LED, RGB LED, and motors based on the tilt sensor readings.**
+**1. Run the compiled code on the MSP432PXX Microcontroller.**
+
+**2. Observe the behavior of the built-in red LED, RGB LED, and motors based on the tilt sensor readings.**
 
 # License
 **This project is licensed under the MIT License.**
