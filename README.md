@@ -25,6 +25,8 @@ See notes of the powerpoint for issues and detailed information.
 
 **Usage**
 
+**License**
+
 # Prerequisites:
 **Code Composer Studio**
 
