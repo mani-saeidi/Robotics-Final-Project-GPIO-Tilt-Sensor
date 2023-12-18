@@ -15,24 +15,34 @@
 
 ## Table of Contents
 **Prerequisites**
+
 **Getting Started**
+
 **Hardware Setup**
+
 **Software Setup**
+
 **Usage**
 
 # Prerequisites:
 **Code Composer Studio**
+
 **MSP432PXX Robot Microcontroller**
+
 **Tilt sensor module**
+
 **Motor driver module(included onboard microcontroller)**
+
 **RGB LED module(included onboard microcontroller)**
 
 # Getting Started
-**Clone this repository to your local machine:**
-bash
-Copy code
+
+**1. Clone this repository to your local machine:**
+```bash
 git clone https://github.com/yourusername/tilt-sensor-project.git
-Open the project in Code Composer Studio.
+```
+**2. Open the project in Code Composer Studio.**
+
 Hardware Setup
 Connect the MSP432PXX Microcontroller to your computer.
 Connect the tilt sensor to the designated pins on Port 4 (P4.0, P4.2, P4.4, P4.5).
