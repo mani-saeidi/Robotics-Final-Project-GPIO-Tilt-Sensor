@@ -14,20 +14,21 @@
 ** This project implements a GPIO-based tilt sensor and inclinometer using the MSP432PXX Robot Microcontroller. The tilt sensor detects the orientation of the system and controls the built-in red LED, RGB LED, and motors accordingly.
 
 ## Table of Contents
-**Prerequisites
-**Getting Started
-**Hardware Setup
-**Software Setup
-**Usage
+**Prerequisites**
+**Getting Started**
+**Hardware Setup**
+**Software Setup**
+**Usage**
 
 # Prerequisites:
-Code Composer Studio
-MSP432PXX Robot Microcontroller
-Tilt sensor module
-Motor driver module
-RGB LED module
-Getting Started
-Clone this repository to your local machine:
+**Code Composer Studio**
+**MSP432PXX Robot Microcontroller**
+**Tilt sensor module**
+**Motor driver module(included onboard microcontroller)**
+**RGB LED module(included onboard microcontroller)**
+
+# Getting Started
+**Clone this repository to your local machine:**
 bash
 Copy code
 git clone https://github.com/yourusername/tilt-sensor-project.git
