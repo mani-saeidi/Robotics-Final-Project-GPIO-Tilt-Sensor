@@ -56,11 +56,7 @@ git clone https://github.com/yourusername/tilt-sensor-project.git
 
 **2. Connect the tilt sensor to the designated pins on Port 4 (P4.0, P4.2, P4.4, P4.5).**
 
-**3. Connect the motor driver to the appropriate ports.**
-
-**4. Connect the RGB LED module to the designated pins on Port 2 (P2.0 - P2.2).**
-
-**5. Power on the MSP432PXX Microcontroller.**
+**3. Power on the MSP432PXX Microcontroller.**
 
 # Software Setup
 **1. Build the project in Code Composer Studio.**
